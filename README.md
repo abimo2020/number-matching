@@ -1,0 +1,2 @@
+# Interview MejaKita
+### Ini merupakan sebuah tugas dari interview MejaKita, dimana mencocokkan dua indeks yang memiliki hasil perjumlahan antara 13 dan 16. Disini saya membuat fungsi yang dinamis dimana bisa mengganti isi dari slice dana menentukan target dari penjumlahan.
