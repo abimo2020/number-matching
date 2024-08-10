@@ -1,2 +1,2 @@
-# Interview MejaKita
-### Ini merupakan sebuah tugas dari interview MejaKita, dimana mencocokkan dua indeks yang memiliki hasil perjumlahan antara 13 dan 16. Disini saya membuat fungsi yang dinamis dimana bisa mengganti isi dari slice dana menentukan target dari penjumlahan.
+# Number Matching
+### Sebuah program untuk mencocokkan dua indeks yang memiliki hasil perjumlahan sesuai argumen target. Terdapat dua parameter yaitu nums bertipe slice dari integer dan target bertipe integer. Kumpulan slice akan dicocokkan untuk mencari kumpulan indeks yang menghasilkan hasil sesuai argumen target.
